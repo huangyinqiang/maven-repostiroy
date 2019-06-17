@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 17 15:08:32 CST 2019
+@default-nexus-http\://192.168.0.10\:8081/nexus/repository/maven-public/.lastUpdated=1560755312138
+http\://192.168.0.10\:8081/nexus/repository/maven-public/.error=Could not transfer artifact org.springframework\:spring-core\:pom\:5.1.5.RELEASE from/to nexus (http\://192.168.0.10\:8081/nexus/repository/maven-public/)\: Not authorized , ReasonPhrase\:Unauthorized.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1560755312346

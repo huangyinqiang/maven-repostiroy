@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 17 15:08:53 CST 2019
+@default-nexus-http\://192.168.0.10\:8081/nexus/repository/maven-public/.lastUpdated=1560755233870
+http\://maven.aliyun.com/nexus/content/groups/public//.lastUpdated=1560755234077
+http\://192.168.0.10\:8081/nexus/repository/maven-public/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:1.7.25 from/to nexus (http\://192.168.0.10\:8081/nexus/repository/maven-public/)\: Not authorized , ReasonPhrase\:Unauthorized.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1560755333824
