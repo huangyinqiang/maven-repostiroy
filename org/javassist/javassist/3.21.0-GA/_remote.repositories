@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jun 17 15:07:25 CST 2019
+#Tue Jun 25 10:59:53 CST 2019
 javassist-3.21.0-GA.jar>maven-ali=
+javassist-3.21.0-GA.jar>alimaven=
+javassist-3.21.0-GA.pom>alimaven=
 javassist-3.21.0-GA.pom>maven-ali=

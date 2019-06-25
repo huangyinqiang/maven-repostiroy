@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jun 17 15:07:25 CST 2019
+#Tue Jun 25 10:59:53 CST 2019
 @default-nexus-http\://192.168.0.10\:8081/nexus/repository/maven-public/.lastUpdated=1560755241819
 http\://maven.aliyun.com/nexus/content/groups/public//.lastUpdated=1560755245483
 http\://192.168.0.10\:8081/nexus/repository/maven-public/.error=Could not transfer artifact org.javassist\:javassist\:jar\:3.21.0-GA from/to nexus (http\://192.168.0.10\:8081/nexus/repository/maven-public/)\: Not authorized , ReasonPhrase\:Unauthorized.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1561431593415
